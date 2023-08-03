@@ -408,7 +408,7 @@ button {
 .yacht-circle-two {
   width: 195px;
   height: 195px;
-  transform: rotate(-45.044deg);
+  /*transform: rotate(-45.044deg);*/
   flex-shrink: 0;
   border-radius: 316px;
   opacity: 0.3;
