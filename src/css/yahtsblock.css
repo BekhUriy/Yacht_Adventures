@@ -103,7 +103,7 @@ button {
   border-radius: 60px;
   border: 1px solid var(--white);
   color: var(--white);
-  font-family: DM Sans;
+  font-family: 'DM Sans';
   font-size: 14px;
   font-weight: 700;
   line-height: 110%;
